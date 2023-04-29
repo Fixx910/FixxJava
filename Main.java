@@ -1,3 +1,5 @@
+//Flores Lara Alberto
+//Saucillo González Jesse Obed 
 public class Main {
     public static void main(String[] args) {
         // Crear una instancia de la clase Calculadora con valores fijos
